@@ -32,8 +32,10 @@ This is a repo for RDF lab workshop "Intro to Robotics 3D Printing"
 ## Extended learning
 
 ## Licence
+RDF LAB files are released under the following licence
 https://creativecommons.org/licenses/by-nc-sa/3.0/ 
 
+other files include third party credit and license info
 
 ## Workshop by
 
